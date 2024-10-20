@@ -1,0 +1,53 @@
+
+h1{
+    padding: 8px;
+    background-color: burlywood;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif;
+}
+marquee{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.about{
+    display: flex;
+}
+.about1{
+        width:30%;
+        background-color: rgb(255, 236, 213);
+        border:2px solid burlywood;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 20px;
+        line-height: 30px;
+        font-family:'Lucida Sans' ;
+        margin-left: 20px;
+}
+.ski-hob{
+    display: flex;
+}
+h4{
+    font-family:'Lucida Sans';
+}
+p{
+    width:60%;
+    background-color:rgb(255, 236, 213) ;
+    border:2px solid burlywood;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 30px;
+    font-family:'Lucida Sans' ;
+    margin-left: 20px;
+}
+img{
+    width:300px;
+    margin-left: 200px;
+    height: 350px;
+}
+a{
+    font-size:30px ;
+    line-height: 40px;
+}
